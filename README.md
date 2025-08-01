@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Foundations of Data Science, Data Structures & Algorithms, Advanced Solid Modeling, and Multivariable Integral Calculus for Engineering.
 - 💞️ I’m looking to collaborate on open-source software projects, coding challenges, or research related to AI and data science.
 - 📫 How to reach me at LinkedIn: https://www.linkedin.com/in/rocelyn-young/
-- ⚡ Fun fact: I’m learning Spanish, especially in the context of globalization and tech, to better connect in an increasingly interconnected world.- 👋 Hi, I’m Rocelyn, a Computer Engineering at Northwestern at Northwestern
+- ⚡ Fun fact: I’m learning Spanish, especially in the context of globalization and tech, to better connect in an increasingly interconnected world.- 
 
 <!---
 RoRo-YoYo/RoRo-YoYo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
